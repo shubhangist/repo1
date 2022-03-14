@@ -1,2 +1,2 @@
 # repo1
-Be positive
+This is a test page
